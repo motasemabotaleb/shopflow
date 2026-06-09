@@ -274,12 +274,3 @@ Through this project, I gained hands-on experience with:
 * Kubernetes Migration (EKS)
 * Infrastructure Testing
 
----
-
-## Author
-
-**Motasem Mohamed**
-
-Cloud Infrastructure Engineer
-
-AWS | Terraform | Docker | DevOps | Cloud Computing
